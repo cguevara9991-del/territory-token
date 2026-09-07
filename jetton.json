@@ -1,6 +1,7 @@
 {
-  "name": "Territory Coin",
-  "symbol": "TERY",
-  "decimals": "9",
-  "description": "Official token of the Territory game project."
+"name": "Territory Coin",
+"symbol": "TERY",
+"decimals": "9",
+"description": "Official token of the Territory game project.",
+"image": "https://cguevara9991-del.github.io/territory-token/logo.jpg"
 }
